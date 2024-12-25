@@ -46,5 +46,3 @@ Give vmbr5 the first port on the network interface card as a bridge port for bot
 
 
 This concludes the physical setup.
-
-[Proxmox Lab Setup and Configuration Guide](Proxmox%20Lab%20Setup%20and%20Configuration%20Guide.md)

@@ -1,6 +1,6 @@
 # Advanced-Storage-Networking-Lab
 
-##### This is  no longer maintained, however to help any budding enthusiast or professionals i have decided to leave this available you can fork this and improve on it. 
+##### This is  no longer maintained and some incomplete content have be removed to avoid frustration, however to help any budding enthusiast or professionals i have decided to leave this available you can fork this and improve on it. 
 
 While this configuration will benefit all home lab enthusiasts, it is crafted with storage network engineers, administrators, and cloud engineers in mind.
 
@@ -10,16 +10,13 @@ This guide takes you through everything from the initial setup to advanced confi
 
 ## Table of Contents
 
-- [Prerequisites](Prerequisites.md)
-- [Lab Network Topology](Lab%20Network%20Topology.md)
+- [Loading Ontap Simulator in Proxmox(.ova)](https://github.com/127001pl/Netapp-Ontapsimulatorr)  | Make a fork of this repo. I am not responsible for maintaining it and it has had little activities in the last few years
 - [Downloading all Virtual Assets](Downloading%20all%20Virtual%20Assets.md)
 - [Prepare Proxmox Environment](Prepare%20Proxmox%20Environment.md)
 
 #### Servers and Client Computer VM Setup
-- [Servers and Active Directories](Servers%20and%20Active%20Directories.md)
+
 - [Network Time Protocol Server](Network%20Time%20Protocol%20Server.md)
-- [Client Computers and Users Setup](Client%20Computers%20and%20Users%20Setup.md)
-- [Join All Windows Clients OS to Windows Active Directory](Join%20All%20Windows%20Clients%20OS%20to%20Windows%20Active%20Directory.md)
 - [Join All Linux Clients to Windows Active Directory](Join%20All%20Linux%20Clients%20to%20Windows%20Active%20Directory.md)
 
 #### Vyos VM Setup
