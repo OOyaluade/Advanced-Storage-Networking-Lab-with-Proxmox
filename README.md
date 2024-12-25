@@ -1,8 +1,8 @@
 # Advanced-Storage-Networking-Lab
 
-##### This is  no longer maintained and some incomplete content have be removed to avoid frustration, however to help any budding enthusiast or professionals i have decided to leave this available you can fork this and improve on it. 
+>[! Warning] ##### This is  no longer maintained and some incomplete content have be removed to avoid frustration, however to help any budding enthusiast or professionals i have decided to leave this available you can fork this and improve on it. 
 
-> [! Note] Most Images will be missing.
+> [! Note] Most images will be missing. But the notes are detailed. Another workaround is to ask GPT to fill in the gaps using already existing notes.
 
 While this configuration will benefit all home lab enthusiasts, it is crafted with storage network engineers, administrators, and cloud engineers in mind.
 
@@ -21,9 +21,8 @@ This guide takes you through everything from the initial setup to advanced confi
 - [Network Time Protocol Server](Network%20Time%20Protocol%20Server.md)
 - [Join All Linux Clients to Windows Active Directory](Join%20All%20Linux%20Clients%20to%20Windows%20Active%20Directory.md)
 
-#### Vyos VM Setup
+#### Vyos VM Setup | Network Setup
 - [Lab Switches and Routers](Lab%20Switches%20and%20Routers.md)
 
 #### ONTAP VM Setup
-- [ONTAP Node and Cluster Setup](ONTAP%20Node%20and%20Cluster%20Setup.md)
 - [ONTAP Cluster Setup Guide](ONTAP%20Cluster%20Setup%20Guide.md)
