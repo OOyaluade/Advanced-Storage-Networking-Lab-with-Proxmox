@@ -2,6 +2,8 @@
 
 ##### This is  no longer maintained and some incomplete content have be removed to avoid frustration, however to help any budding enthusiast or professionals i have decided to leave this available you can fork this and improve on it. 
 
+> [! Note] Most Images will be missing.
+
 While this configuration will benefit all home lab enthusiasts, it is crafted with storage network engineers, administrators, and cloud engineers in mind.
 
 This guide takes you through everything from the initial setup to advanced configurations of all the VMs, simulating a real storage network engineer/admin's project in an enterprise environment. It’s perfect for professionals at any career stage. The document is modular, making it easy to update or fork for improvements. 
